@@ -1,0 +1,15 @@
+# secret files
+.env
+
+# virtual environments
+.venv/
+v_env/
+
+# cache files
+*.pyc
+__pycache__/*.pyc
+__pycache__/*
+
+# media files
+files/
+.csv
