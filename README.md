@@ -13,6 +13,7 @@ v_env/Scripts/activate
 - Pandas
 - Matplotlib
 - Seaborn
+- Python Decouple
 
 To install the dependencies run:
 ```
