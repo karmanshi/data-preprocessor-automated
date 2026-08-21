@@ -20,6 +20,9 @@ To install the dependencies run:
 pip install -r requirements.txt
 ```
 
+# Update Dependencies
+Copy the `.env.example` file and rename it to `.env` and change the environment variables with the correct value
+
 # Run the project
 ```
 python app.py
